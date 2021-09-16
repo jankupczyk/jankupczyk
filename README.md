@@ -4,10 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jankupczyk&label=Profile%20views&color=0e75b6&style=flat" alt="jankupczyk" /> </p>
 
 <p align="center" style="clear: both;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jankupczyk&theme=dracula&row=1&column=7" alt="jankupczyk" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
+<p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankupczyk&" alt="jankupczyk" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" /></p>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" />
+</p>
 <br><br><br>
 - 🔭 I’m currently working on [My website "K U P C Z Y K"](https://github.com/jankupczyk/KUPCZYK)
 
