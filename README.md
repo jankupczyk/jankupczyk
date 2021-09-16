@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jankupczyk&label=Profile%20views&color=0e75b6&style=flat" alt="jankupczyk" />
-  <img src="https://komarev.com/ghpvc/?username=jankupczyk&label=Profile%20views&color=0e75b6&style=flat" alt="jankupczyk" />
+  <img src="https://camo.githubusercontent.com/e47329ee262d32e765c17747986f99c12b2b288c6f14401b030c8884d1423a4b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f72796f2d6d612f6769746875622d70726f66696c652d74726f706879" alt="jankupczyk" />
   <img src="https://komarev.com/ghpvc/?username=jankupczyk&label=Profile%20views&color=0e75b6&style=flat" alt="jankupczyk" />
 </p>
 
