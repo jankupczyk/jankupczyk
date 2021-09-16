@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jankupczyk&label=Profile%20views&color=0e75b6&style=flat" alt="jankupczyk" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jankupczyk&theme=dracula" alt="jankupczyk" /></a> </p>
+<p> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jankupczyk&theme=dracula" alt="jankupczyk" /></a> </p>
+<br>
 
 - 🔭 I’m currently working on [My website "K U P C Z Y K"](https://github.com/jankupczyk/KUPCZYK)
 
