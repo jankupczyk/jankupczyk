@@ -6,6 +6,12 @@
 <p align="center" style="clear: both;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jankupczyk&theme=dracula&row=1&column=7" alt="jankupczyk" /></a> </p>
 <br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankupczyk&" alt="jankupczyk" />
+</p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" /></p>
+
 - 🔭 I’m currently working on [My website "K U P C Z Y K"](https://github.com/jankupczyk/KUPCZYK)
 
 - 🌱 I’m currently learning on **Pluralsight - AWS**
