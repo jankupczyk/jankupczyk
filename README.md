@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://jankupczyk.github.io/KUPCZYK/](https://jankupczyk.github.io/KUPCZYK/)
 
-- ⚡ Fun fact **I'm more interesting than you think 😉**
+- ⚡ Fun fact **I'm more interesting person than you think 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
