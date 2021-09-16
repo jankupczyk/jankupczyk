@@ -33,5 +33,5 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankupczyk&" alt="jankupczyk" />
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" /></p>
 
