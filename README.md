@@ -20,7 +20,7 @@
 <br><br><br>
 - 🔭 I’m currently working on [My website "K U P C Z Y K"](https://github.com/jankupczyk/KUPCZYK)
 
-- 🌱 I’m currently learning on **Pluralsight - AWS**
+- 🌱 I’m currently learning on ** **
 
 - 👨‍💻 All of my projects are available at [https://jankupczyk.github.io/KUPCZYK/](https://jankupczyk.github.io/KUPCZYK/)
 
