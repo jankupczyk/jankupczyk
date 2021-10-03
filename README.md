@@ -30,7 +30,7 @@
 
 - 📄 Know about my experiences [https://jankupczyk.github.io/KUPCZYK/](https://jankupczyk.github.io/KUPCZYK/)
 
-- ⚡ Fun fact **I'm more interesting person than you think 😉**
+- ⚡ Fun fact **😉**
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
