@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning on ** **
 
-- 👨‍💻 All of my projects are available at [HERE](https://github.com/jankupczyk?tab=repositories)
+- 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
 - 📝 I regularly write articles on [https://jankupczyk.github.io/KUPCZYK/](https://jankupczyk.github.io/KUPCZYK/)
 
