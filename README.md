@@ -18,13 +18,13 @@
 </p>
 
 <br><br><br>
-- 🔭 I’m currently working on [My website "K U P C Z Y K"](https://github.com/jankupczyk/KUPCZYK)
+- 🔭 I’m currently working on [My website](https://github.com/jankupczyk/KUPCZYK)
 
 - 🌱 I’m currently learning **FLASK**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
-- 📝 I regularly write articles on [https://jankupczyk.github.io/KUPCZYK/](https://jankupczyk.github.io/KUPCZYK/)
+- 📝 I regularly write articles on [https://jankupczyk.github.io/KUPCZYK/blog](https://jankupczyk.github.io/KUPCZYK/)
 
 - 📫 How to reach me **jankupczyk11@gmail.com**
 
