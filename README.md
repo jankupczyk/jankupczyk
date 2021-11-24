@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Janek</h1>
-<h3 align="center">I'm 20 years old and I'm an IT specialist, I like to make new friends and work with them, I'm interested in new technologies, travel, politics, sports, and games.</h3>
-
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
