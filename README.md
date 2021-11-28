@@ -12,7 +12,7 @@
 <br><br><br>
 - 🔭 I’m currently working on [My website](https://github.com/jankupczyk/KUPCZYK)
 
-- 🌱 I’m currently learning **FLASK**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
