@@ -10,7 +10,7 @@
 </p>
 
 <br><br><br>
-- 🔭 I’m currently working on [My website](https://github.com/jankupczyk/KUPCZYK)
+- 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator)
 
 - 🌱 I’m currently learning **C#**
 
