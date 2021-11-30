@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
-- 📝 I regularly write articles on [https://jankupczyk.github.io/KUPCZYK/blog](https://jankupczyk.github.io/KUPCZYK/)
+- 📝 I regularly write articles on [https://jankupczyk.github.io/KUPCZYK/Blog](https://jankupczyk.github.io/KUPCZYK/)
 
 - 📫 How to reach me **jankupczyk11@gmail.com**
 
-- 📄 Know about my experiences [https://jankupczyk.github.io/KUPCZYK/](https://jankupczyk.github.io/KUPCZYK/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kupczyk/)
 
 - ⚡ Fun fact **😉**
 
