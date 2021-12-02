@@ -21,7 +21,7 @@
 - 📫 How to reach me **jankupczyk11@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kupczyk/)
-
+ 
 - ⚡ Fun fact **😉**
 
 <h3 align="left">Languages and Tools:</h3>
