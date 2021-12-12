@@ -10,9 +10,9 @@
 </p>
 
 <br><br><br>
-- 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator) and [PY2gether](https://github.com/jankupczyk/PY2gether)
+- 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator), [Tree-Traversals](https://github.com/jankupczyk/Tree-Traversals) and [PY2gether](https://github.com/jankupczyk/PY2gether)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**  
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
@@ -21,7 +21,7 @@
 - 📫 How to reach me **jankupczyk11@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kupczyk/)
- 
+
 - ⚡ Fun fact **😉**
 
 <h3 align="left">Languages and Tools:</h3>
