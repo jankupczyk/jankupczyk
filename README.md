@@ -2,7 +2,6 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jankupczyk&" alt="jankupczyk" />
 </p>
 
 <p align="center">
