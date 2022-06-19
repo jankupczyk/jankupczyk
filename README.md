@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankupczyk&layout=compact)](https://github.com/jankupczyk/github-readme-stats)
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" />
 </p>
 
 <br><br><br>
