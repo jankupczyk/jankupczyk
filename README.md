@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jankupczyk&show_icons=true&locale=en&layout=compact" alt="jankupczyk" />
+   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jankupczyk" frameborder="1"></iframe>
 </p>
 
 <br><br><br>
