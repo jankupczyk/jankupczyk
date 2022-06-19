@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankupczyk)](https://github.com/jankupczyk/github-readme-stats)
 
-<a href="https://app.daily.dev/Jan_Kupczyk"><img src="https://api.daily.dev/devcards/d39b6ff70efb45158390de39ed93bb10.png?r=y72" width="400" alt="Jan Kupczyk's Dev Card"/></a>
-
 <br><br><br>
 - 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator)
 
