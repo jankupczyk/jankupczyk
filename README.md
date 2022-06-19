@@ -9,7 +9,7 @@
 <br><br><br>
 - 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator), [Tree-Traversals](https://github.com/jankupczyk/Tree-Traversals) and [PYnema](https://github.com/jankupczyk/PYnema)
 
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
