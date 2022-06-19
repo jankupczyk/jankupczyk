@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jankupczyk" frameborder="1"></iframe>
+   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jankupczyk" frameborder="0"></iframe>
 </p>
 
 <br><br><br>
