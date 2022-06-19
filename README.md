@@ -4,9 +4,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
 </p>
 
-<p align="center">
-   <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jankupczyk" frameborder="0"></iframe>
-</p>
+<iframe align="center" width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?jankupczyk" frameborder="0"> </iframe>
 
 <br><br><br>
 - 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator), [Tree-Traversals](https://github.com/jankupczyk/Tree-Traversals) and [PYnema](https://github.com/jankupczyk/PYnema)
