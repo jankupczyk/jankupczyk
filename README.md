@@ -22,7 +22,6 @@
 - ⚡ Fun fact **😉**
 
 <h3 align="left">Tech stack: </h3>
-<br>
 <p align="left">
 Programming:
    
