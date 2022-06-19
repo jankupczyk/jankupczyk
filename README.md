@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankupczyk)](https://github.com/jankupczyk/github-readme-stats)
 
 <br><br><br>
-- 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator), [Tree-Traversals](https://github.com/jankupczyk/Tree-Traversals) and [PYnema](https://github.com/jankupczyk/PYnema)
+- 🔭 I’m currently working on [Python Calculator](https://github.com/jankupczyk/Calculator)
 
 - 🌱 I’m currently learning **Ruby**
 
