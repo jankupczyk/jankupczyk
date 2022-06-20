@@ -34,6 +34,8 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kupczyk/)
 
 - ⚡ Fun fact 
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Tech stack: </h3>
