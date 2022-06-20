@@ -1,24 +1,21 @@
 <h1 align="center">Hi, I'm Janek</h1>
 
 
-<p align="center">
-   
-   [![VSC](https://img.shields.io/badge/-VSC-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)]()
-   [![VS](https://img.shields.io/badge/-VS-8B008B?style=flat-square&logo=visual-studio&logoColor=white)]()
-   [![PyCharm](https://img.shields.io/badge/-PyCharm-00ab41?style=flat-square&logo=pycharm&logoColor=white)]()
-   [![PowerShell](https://img.shields.io/badge/-PowerShell-607598?style=flat-square&logo=powershell&logoColor=white)]()
-   [![Linux](https://img.shields.io/badge/-WSL2-e95420?style=flat-square&logo=linux&logoColor=white)]()
-   [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
-   [![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=white)]()
-   [![IBM](https://img.shields.io/badge/-IBM-1793D1?style=flat-square&logo=ibm&logoColor=white)]()
-   [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)]()
-   [![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)]()
-   [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-ffd700?style=flat-square&logo=GoogleChrome&logoColor=white)]()
-   [![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=flat-square&logo=pluralsight&logoColor=white)]()
-   [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)]()
-   [![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)]()
 
-</p>
+[![VSC](https://img.shields.io/badge/-VSC-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)]()
+[![VS](https://img.shields.io/badge/-VS-8B008B?style=flat-square&logo=visual-studio&logoColor=white)]()
+[![PyCharm](https://img.shields.io/badge/-PyCharm-00ab41?style=flat-square&logo=pycharm&logoColor=white)]()
+[![PowerShell](https://img.shields.io/badge/-PowerShell-607598?style=flat-square&logo=powershell&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/-WSL2-e95420?style=flat-square&logo=linux&logoColor=white)]()
+[![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=white)]()
+[![IBM](https://img.shields.io/badge/-IBM-1793D1?style=flat-square&logo=ibm&logoColor=white)]()
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)]()
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)]()
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-ffd700?style=flat-square&logo=GoogleChrome&logoColor=white)]()
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=flat-square&logo=pluralsight&logoColor=white)]()
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)]()
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
