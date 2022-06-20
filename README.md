@@ -10,7 +10,8 @@
 [![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=white)]()
 [![IBM](https://img.shields.io/badge/-IBM-1793D1?style=flat-square&logo=ibm&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)]()
-[![Photoshop](https://img.shields.io/badge/-Photoshop-0B0B45?style=flat-square&logo=photoshop&logoColor=white)]()
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-ffd700?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
