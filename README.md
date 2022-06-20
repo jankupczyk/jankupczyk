@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Janek</h1>
 
 
+<p align="center">
+   
 [![VSC](https://img.shields.io/badge/-VSC-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)]()
 [![VS](https://img.shields.io/badge/-VS-8B008B?style=flat-square&logo=visual-studio&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/-PyCharm-00ab41?style=flat-square&logo=pycharm&logoColor=white)]()
@@ -15,6 +17,8 @@
 [![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=flat-square&logo=pluralsight&logoColor=white)]()
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)]()
+
+</p>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
