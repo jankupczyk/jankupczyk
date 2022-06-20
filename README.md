@@ -3,7 +3,7 @@
 
 [![VSC](https://img.shields.io/badge/-VSC-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)]()
 [![VS](https://img.shields.io/badge/-VS-8B008B?style=flat-square&logo=visual-studio&logoColor=white)]()
-[![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
+[![WSL2](https://img.shields.io/badge/-WSL2-CC2927?style=flat-square&logo=wsl2&logoColor=white)]()
 [![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=white)]()
