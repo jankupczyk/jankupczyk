@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
-- 📝 I regularly write articles on [WEBSITE](https://jankupczyk.github.io/KUPCZYK/Blog/1)
+- 📝 I regularly write articles on [WEBSITE](https://jankupczyk.github.io/KUPCZYK/blog/1?21&06&2022)
 
 - 📫 How to reach me **jankupczyk11@gmail.com**
 
