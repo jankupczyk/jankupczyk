@@ -22,8 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankupczyk&layout=compact)](https://github.com/jankupczyk/github-readme-stats)
 
-<img src="https://ionicabizau.github.io/github-profile-languages/api.html?@jankupczyk" />
-   
 
 <br><br><br>
 - 🔭 I’m currently working on [CALCIIO](https://github.com/jankupczyk/CALCIIO)
