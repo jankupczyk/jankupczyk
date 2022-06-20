@@ -5,7 +5,7 @@
 [![VS](https://img.shields.io/badge/-VS-8B008B?style=flat-square&logo=visual-studio&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/-PyCharm-00ab41?style=flat-square&logo=pycharm&logoColor=white)]()
 [![PowerShell](https://img.shields.io/badge/-PowerShell-607598?style=flat-square&logo=powershell&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/-Linux-e95420?style=flat-square&logo=WSL2.0&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/-WSL2.0-e95420?style=flat-square&logo=linux&logoColor=white)]()
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=white)]()
 [![IBM](https://img.shields.io/badge/-IBM-1793D1?style=flat-square&logo=ibm&logoColor=white)]()
