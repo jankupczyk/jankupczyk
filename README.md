@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janek</h1>
+<h1 align="center">Hi, I'm Janek</h1>
 
 
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
