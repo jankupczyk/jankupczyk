@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankupczyk&layout=compact)](https://github.com/jankupczyk/github-readme-stats)
 
-<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@jankupczyk" frameborder="0"></img>
+<img src="https://ionicabizau.github.io/github-profile-languages/api.html?@jankupczyk" />
    
 
 <br><br><br>
