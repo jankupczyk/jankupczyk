@@ -3,7 +3,7 @@
 
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
 [![Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)]()
-[![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)]()
+[![IBM](https://img.shields.io/badge/-IBM-1793D1?style=flat-square&logo=IBM&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)]()
 [![Glitch](https://img.shields.io/badge/-Glitch-3333FF?style=flat-square&logo=glitch&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)]()
