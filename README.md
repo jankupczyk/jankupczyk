@@ -2,6 +2,7 @@
 
 
 [![VSC](https://img.shields.io/badge/-VSC-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)]()
+[![VS](https://img.shields.io/badge/-VS-8B008B?style=flat-square&logo=visual-studio&logoColor=white)]()
 [![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
 [![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
