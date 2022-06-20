@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Janek</h1>
 
 
-[![VSC](https://img.shields.io/badge/-VSC-CC2927?style=flat-square&logo=visual-studio-code&logoColor=blue)]()
+[![VSC](https://img.shields.io/badge/-VSC-00FFFF?style=flat-square&logo=visual-studio-code&logoColor=white)]()
 [![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
 [![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)]()
