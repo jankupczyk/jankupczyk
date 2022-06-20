@@ -28,7 +28,7 @@
 <br><br><br>
 - 🔭 I’m currently working on [CALCIIO](https://github.com/jankupczyk/CALCIIO)
 
-- 🌱 I’m currently learning [*Ruby*](https://pl.wikipedia.org/wiki/Ruby_(j%C4%99zyk_programowania))
+- 🌱 I’m currently learning [ * Ruby * ](https://pl.wikipedia.org/wiki/Ruby_(j%C4%99zyk_programowania))
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
 
