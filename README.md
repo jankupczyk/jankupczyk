@@ -13,7 +13,7 @@
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)]()
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-ffd700?style=flat-square&logo=GoogleChrome&logoColor=white)]()
 [![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=flat-square&logo=pluralsight&logoColor=white)]()
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logoColor=white)]()
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)]()
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jankupczyk&show_icons=true&locale=en" alt="jankupczyk" />
