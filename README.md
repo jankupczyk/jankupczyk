@@ -24,19 +24,6 @@
 
 
 <br><br><br>
-- 🔭 I’m currently working on [CALCIIO](https://github.com/jankupczyk/CALCIIO)
-
-- 🌱 I’m currently learning [Ruby](https://pl.wikipedia.org/wiki/Ruby_(j%C4%99zyk_programowania))
-
-- 👨‍💻 All of my projects are available [HERE](https://github.com/jankupczyk?tab=repositories)
-
-- 📝 I regularly write articles on [WEBSITE](https://jankupczyk.github.io/KUPCZYK/blog/1?21&06&2022)
-
-- 📫 How to reach me **jankupczyk11@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kupczyk/)
-
-- ⚡ Fun fact   ↓
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
